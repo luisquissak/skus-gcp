@@ -1,6 +1,10 @@
 # skus-gcp
 Download SKU info
 
+# Input
+
+Baixar o CSV com os SKUs da calculadora GCP
+
 # Getting Started
 
 1. Requirements: Python, VSCode
@@ -19,7 +23,6 @@ pip install -r requirements.txt
 
 4. Execute
 ```bash
-.venv\scripts\activate 
-.venv\Scripts\python.exe skus_downloader.py
+.venv\scripts\activate && .venv\Scripts\python.exe skus_downloader.py
 ```
 
