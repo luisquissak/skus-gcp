@@ -1,2 +1,5 @@
-sku;price;metric;region
-B11D-9FCF-1A1B;0.246987196 BRL;1 gibibyte month;southamerica-east1
+sku,price,metric,region
+B11D-9FCF-1A1B,0.246987196 BRL - 1 gibibyte month,southamerica-east1
+F315-C467-F954,0.846813242 BRL - 1 gibibyte, for 0 gibibyte to 1,024 gibibyte, - 1 month - account
+0.599826047 BRL - 1 gibibyte, for 1,024 gibibyte to 153,600 gibibyte, - 1 month - account
+0.564542162 BRL - 1 gibibyte, for 153,600 gibibyte and above, - 1 month - account,
